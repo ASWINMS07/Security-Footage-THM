@@ -3,7 +3,7 @@
 > **Category:** Digital Forensics  
 > **Difficulty:** Easy/Intermediate  
 > **Platform:** [TryHackMe](https://tryhackme.com/room/securityfootage)  
-> **Author:** Aswin M S (@yourGitHubHandle)
+> **Author:** Aswin M S 
 
 ---
 
