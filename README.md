@@ -117,9 +117,9 @@ ffmpeg -framerate 10 -pattern_type glob -i '*.jpg' -c:v libx264 -pix_fmt yuv420p
 
 ## 🔗 Connect With Me
 
-- **GitHub**: [@yourGitHubHandle](https://github.com/ASWINMS07)
-- **TryHackMe**: [YourTryHackMeUsername]
-- **LinkedIn**: [Optional]
+- **GitHub**: [Git Hub](https://github.com/ASWINMS07)
+- **TryHackMe**: [TryHackMe](https://tryhackme.com/p/AswinMS)
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/msaswin07/)
 
 ---
 
